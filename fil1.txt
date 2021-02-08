@@ -1,1 +1,3 @@
 Detta är den första filen - rad 1.
+Rad 3.
+Rad 4.
